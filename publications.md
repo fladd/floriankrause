@@ -82,7 +82,7 @@ across multiple visual neurofeedback presentations. _Proceedings of the 6th
 International Brain-Computer Interface Meeting, 132_.
 [https://doi.org/10.3217/978-3-85125-467-9-132]()
 
-## Other
+## Other publications
 ### 2017
 * **Krause, F.** (2017). MagniShoot – An educational game developed in 24
 hours. _Donders Wonders - On Brains and Science_.
