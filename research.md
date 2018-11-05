@@ -2,7 +2,7 @@
 title: Research
 ---
 
-## Neurofeedback & Stress
+## Real-time fMRI Neurofeedback & Stress
 I recently got interested in how the self-regulation of brain networks by
 functional Magnetic Resonance Imaging (fMRI) neurofeedback can be
 methodologically further advanced and utilised as a therapeutic measure for
