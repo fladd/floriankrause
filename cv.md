@@ -30,7 +30,7 @@ Website: [www.ru.nl/english/people/krause-f]()
 * [Review Activities](#review-activities)
 * [Publications](#publications)
 * [Presentations](#presentations)
-* [Internationl Collaborations](#internationl-collaborations)
+* [International Collaborations](#international-collaborations)
 * [Miscellaneous](#miscellaneous)
 * [Languages](#languages)
 * [References](#references)
@@ -344,7 +344,7 @@ Website: [www.ru.nl/english/people/krause-f]()
 
   (Title: _“Action categories in the human premotor cortex”_)
   
-## Internationl Collaborations
+## International Collaborations
 #### Canada
 * Jay Pratt, University of Toronto
 
