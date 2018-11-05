@@ -21,7 +21,7 @@ methodologically further advanced and utilised as a therapeutic measure for
 mental disorders. For instance, we recently investigated the effect of varying
 the visual presentation of a neural feedback signal on individuals'
 self-regulation success. In another project, we implemented a simple real-time
-functional connectivity measure (partial correlation and explored the
+functional connectivity measure (partial correlation) and explored the
 feasibility of using this as a neurofeedback signal during a visual motion
 task.
 
