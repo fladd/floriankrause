@@ -28,7 +28,7 @@ in early childhood. _Cognitive Development_.
 Linden, D. & Whittaker, J. (2019). The BOLD response in primary motor cortex
 and supplementary motor area during kinesthetic motor imagery based graded
 fMRI neurofeedback. _NeuroImage, 184_, 36–44.
-doi: [10.1016/j.neuroimage.2018.09.007](https://doi.org/10.1016/j.neuroimage.2018.09.007])
+doi: [10.1016/j.neuroimage.2018.09.007](https://doi.org/10.1016/j.neuroimage.2018.09.007)
 
 ### 2017
 * **Krause, F.**, Benjamins, C., Lührs, M., Eck, J., Noirhomme, Q., Rosenke,
