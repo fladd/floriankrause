@@ -2,7 +2,7 @@
 title: About me
 ---
 
-I am a researcher in Cognitive Neuroscience, currently working at the [Donders Institute](https://ru.nl/donders) at [Radboud University Medical Center](https://radboudumc.nl) in Nijmegen, The Netherlands.
+I am a researcher in Cognitive Neuroscience, currently working at the [Donders Institute](https://ru.nl/donders) at [RadboudUMC](https://radboudumc.nl) in Nijmegen, The Netherlands.
 
 My main research interests include real-time fMRI, neurofeedback, stress, embodied cognition and numerical cognition.
 
