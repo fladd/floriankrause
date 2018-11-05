@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-**Dr. Florian Krause**
+**Dr. Florian Krause**  
 Donders Institute for Brain, Cognition and Behaviour  
 Radboud University Medical Center  
 P.O. Box 9101  
@@ -12,7 +12,7 @@ The Netherlands
 Phone: +31 24 3610618  
 Email: f.krause@donders.ru.nl | florian.krause@radboundumc.nl  
 
-**Visiting address:**
+**Visiting address:**  
 Trigon, room 1.185  
 Kapittelweg 29  
 6525 EN Nijmegen  
