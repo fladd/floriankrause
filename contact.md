@@ -13,8 +13,4 @@ Phone: +31 24 3610618
 Email: [f.krause@donders.ru.nl](mailto:f.krause@donders.ru.nl) |
        [florian.krause@radboundumc.nl](mailto:florian.krause@radboundumc.nl)  
 
-**Visiting address:**  
-Trigon, room 1.185  
-Kapittelweg 29  
-6525 EN Nijmegen  
-The Netherlands
+Visiting address: Kapittelweg 29, room 1.185, 6525 EN Nijmegen, The Netherlands
