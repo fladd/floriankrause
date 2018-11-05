@@ -1,5 +1,5 @@
 ---
-title: Hi there!
+title: About me
 ---
 
 I am a researcher in Cognitive Neuroscience, currently working at the [Donders Institute](https://ru.nl/donders) at [Radboud University Medical Center](https://radboudumc.nl) in Nijmegen, The Netherlands.
