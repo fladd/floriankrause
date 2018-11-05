@@ -40,7 +40,7 @@ doi: [10.1080/2326263X.2017.1307096](https://doi.org/10.1080/2326263X.2017.13070
 * **Krause, F.**, Bekkering, H., Pratt, J. & Lindemann, O. (2017). Interaction
 between numbers and size during visual search. _Psychological Research,
 81(3)_, 664-677.
-doi: [10.1007/s00426-016-0771-4]([https://doi.org/10.1007/s00426-016-0771-4)
+doi: [10.1007/s00426-016-0771-4](https://doi.org/10.1007/s00426-016-0771-4)
 
 ### 2014
 * **Krause, F.**, Lindemann, O., Toni, I. & Bekkering, H. (2014). Different
