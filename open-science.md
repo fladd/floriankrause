@@ -17,4 +17,4 @@ title: Open Science
 
 ## Open Data
 * Krause, Meyer, Bekkering, Hunnius & Lindemann (in press)  
-  [osf.io/xn8cm/](https://osf.io/xn8cm/)
+  [osf.io/xn8cm](https://osf.io/xn8cm/)
