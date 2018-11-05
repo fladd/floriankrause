@@ -10,7 +10,8 @@ P.O. Box 9101
 The Netherlands  
 
 Phone: +31 24 3610618  
-Email: f.krause@donders.ru.nl | florian.krause@radboundumc.nl  
+Email: [mailto:f.krause@donders.ru.nl](f.krause@donders.ru.nl) |
+       [mailto:florian.krause@radboundumc.nl](florian.krause@radboundumc.nl)  
 
 **Visiting address:**  
 Trigon, room 1.185  
