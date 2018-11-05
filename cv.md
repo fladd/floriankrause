@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-## Florian Krause
+**Florian Krause**
 
 Donders Institute for Brain, Cognition and Behaviour  
 Radboud University Medical Center  
@@ -11,10 +11,8 @@ P.O. Box 9101
 The Netherlands  
 
 Phone: +31 24 3610618  
-Email: f.krause@donders.ru.nl |    florian.krause@radboundumc.nl  
-Website: www.ru.nl/english/people/krause-f
-
-***
+Email: f.krause@donders.ru.nl | florian.krause@radboundumc.nl  
+Website: [www.ru.nl/english/people/krause-f]()
 
 **Table of Contents**
 * [Personal Details](#personal-details)
