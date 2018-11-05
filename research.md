@@ -2,6 +2,7 @@
 title: Research
 ---
 
+## Neurofeedback & Stress
 I recently got interested in how the self-regulation of brain networks by
 functional Magnetic Resonance Imaging (fMRI) neurofeedback can be
 methodologically further advanced and utilised as a therapeutic measure for
@@ -24,9 +25,9 @@ functional connectivity measure (partial correlation and explored the
 feasibility of using this as a neurofeedback signal during a visual motion
 task.
 
-And before that, I did my PhD at the Donders Institute for Brain, Cognition
-and Behaviour at Radboud University in Nijmegen, The Netherlands, as part of
-the Action and
+## Embodied Numerical Cognition
+I did my PhD at the Donders Institute for Brain, Cognition and Behaviour at
+Radboud University in Nijmegen, The Netherlands, as part of the Action and
 Neurocognition group of Harold Bekkering as well as the Intention and Action
 group of Ivan Toni, and in collaboration with Oliver Lindemann from the Potsdam
 Embodied Cognition Group. During this time I got concerned with the question of
