@@ -3,7 +3,7 @@ title: Open Science
 ---
 
 ## Open-Source/Free Software
-* **Expyriment**: An open-source and platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments
+* **Expyriment**: An open-source and platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments  
   [http://www.expyriment.org]()
 
 * **IndNet**: Defining subject-specific brain networks by individualizing templates  
@@ -16,5 +16,5 @@ title: Open Science
   [https://github.com/fladd/RealTimeExportServer]()
 
 ## Open Data
-* Krause, Meyer, Bekkering, Hunnius & Lindemann (in press)
+* Krause, Meyer, Bekkering, Hunnius & Lindemann (in press)  
   [https://osf.io/xn8cm/]()
