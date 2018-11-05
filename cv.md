@@ -2,6 +2,8 @@
 title: Curriculum Vitae
 ---
 
+***
+
 **Florian Krause**
 
 Donders Institute for Brain, Cognition and Behaviour  
@@ -11,8 +13,10 @@ P.O. Box 9101
 The Netherlands  
 
 Phone: +31 24 3610618  
-Email: [mailto:f.krause@donders.ru.nl]() | [mailto:florian.krause@radboundumc.nl]()
+Email: [f.krause@donders.ru.nl]() | [florian.krause@radboundumc.nl]() 
 Website: [www.ru.nl/english/people/krause-f]()
+
+***
 
 * [Personal Details](#personal-details)
 * [Research Interests](#research-interests)
