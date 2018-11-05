@@ -89,12 +89,11 @@ doi: [10.3217/978-3-85125-467-9-132](https://doi.org/10.3217/978-3-85125-467-9-1
 
 ## Other publications
 ### 2017
-* **Krause, F.** (2017). MagniShoot – An educational game developed in 24
-hours. _Donders Wonders - On Brains and Science_.
-[http://blog.donders.ru.nl/?p=7327&lang=en&]()
+* **Krause, F.** (2017). [MagniShoot – An educational game developed in 24
+hours](http://blog.donders.ru.nl/?p=7327&lang=en&). _Donders Wonders - On Brains and Science_.
 
-* **Krause, F.** (2017). Maak getalgrootte voelbar. _Jeugd in School en
-Wereld_. [http://jsw-online.nl/2017/01/09/maak-getalgrootte-voelbaar/]()
+* **Krause, F.** (2017). [Maak getalgrootte voelbar](http://jsw-online.nl/2017/01/09/maak-getalgrootte-voelbaar/).
+_Jeugd in School en Wereld_.
 
 * **Krause, F.** & Lindemann, O. (2014). Erratum to: Expyriment: A Python
 library for cognitive and neuroscientific experiments. _Behavior Research
