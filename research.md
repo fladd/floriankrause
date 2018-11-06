@@ -22,13 +22,13 @@ therapeutic measure for mental disorders.
 
 **Key Publications:**
 
-* Mehler, D., Williams, A., Krause, F., Lührs, M., Shetty, H.,Turner, D.,
+* Mehler, D., Williams, A., **Krause, F.**, Lührs, M., Shetty, H.,Turner, D.,
 Linden, D. & Whittaker, J. (2019). The BOLD response in primary motor cortex
 and supplementary motor area during kinesthetic motor imagery based graded
 fMRI neurofeedback. _NeuroImage, 184_, 36–44.
 doi: [10.1016/j.neuroimage.2018.09.007](https://doi.org/10.1016/j.neuroimage.2018.09.007)
 
-* Krause, F., Benjamins, C., Lührs, M., Eck, J., Noirhomme, Q., Rosenke,
+* **Krause, F.**, Benjamins, C., Lührs, M., Eck, J., Noirhomme, Q., Rosenke,
 M., Brunheim, S., Sorger, B. & Goebel, R. (2017). Neurofeedback at display:
 Real-time fMRI-based self-regulation of brain activation acrosss different
 visual feedback presentations. _Brain-Computer Interfaces, 4(1–2)_, 87–101.
@@ -50,18 +50,18 @@ Morphometry).
 
 **Key Publications:**
 
-* Krause, F., Bekkering, H., Pratt, J. & Lindemann, O. (2017). Interaction
+* **Krause, F.**, Bekkering, H., Pratt, J. & Lindemann, O. (2017). Interaction
 between numbers and size during visual search. _Psychological Research,
 81(3)_, 664-677.
 doi: [10.1007/s00426-016-0771-4](https://doi.org/10.1007/s00426-016-0771-4)
 
-* Krause, F., Lindemann, O., Toni, I. & Bekkering, H. (2014). Different
+* **Krause, F.**, Lindemann, O., Toni, I. & Bekkering, H. (2014). Different
 brains process numbers differently: Structural bases of individual
 differences in spatial and non-spatial number representations. _Journal of
 Cognitive Neuroscience 26(4)_, 768-776.
 doi: [10.1162/jocn_a_00518](https://doi.org/10.1162/jocn_a_00518)
 
-* Krause, F., Bekkering, H. & Lindemann, O. (2013). A feeling for numbers:
+* **Krause, F.**, Bekkering, H. & Lindemann, O. (2013). A feeling for numbers:
 shared metric for symbolic and tactile numerosities. _Frontiers in Psychology
 4:7_.
 doi: [10.3389/fpsyg.2013.00007](https://doi.org/10.3389/fpsyg.2013.00007)
