@@ -3,6 +3,7 @@ title: Research
 ---
 
 ## Large-scale Brain Networks & Stress
+
 I recently got interested in the clinical benefits of self-regulating
 large-scale brain networks using real-time functional Magnetic Resonance
 Imaging (fMRI) neurofeedback. In my current position as a postdoctoral
@@ -13,6 +14,7 @@ blance for developing real-time fMRI neurofeedback training interventions
 to increase stress resilience.
 
 ## Real-time fMRI & Neurofeedback
+
 When working on the European BRAINTRAIN project as a postdoctoral researcher
 for Rainer Goebel at Brain Innovation B.V. and Maastricht University, I
 started exploring how the self-regulation of brain networks by (combined)
@@ -35,6 +37,7 @@ visual feedback presentations. _Brain-Computer Interfaces, 4(1–2)_, 87–101.
 doi: [10.1080/2326263X.2017.1307096](https://doi.org/10.1080/2326263X.2017.1307096)
 
 ## Embodied Cognition & Numerical Cognition
+
 During my PhD at the Donders Institute at Radboud University,
 with Harold Bekkering, Ivan Toni and Oliver Lindemann,
 I got concerned with the question of how former
