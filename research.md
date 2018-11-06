@@ -2,7 +2,7 @@
 title: Research
 ---
 
-## Large-scale Brain Networks & Stress-related Disorders
+## Large-scale Brain Networks & Stress
 I recently got interested in the clinical benefits of self-regulating
 large-scale brain networks using real-time functional Magnetic Resonance
 Imaging (fMRI) neurofeedback. In my current position as a postdoctoral
@@ -13,8 +13,8 @@ for developing real-time fMRI neurofeedback training interventions to
 increase stress resilience.
 
 ## Real-time fMRI & Neurofeedback
-When I worked on the European BRAINTRAIN project as a postdoctoral
-researcher for Rainer Goebel at Brain Innovation B.V. and Maastricht University
+When working on the European BRAINTRAIN project as a postdoctoral researcher
+for Rainer Goebel at Brain Innovation B.V. and Maastricht University
 in Maastricht, The Netherlands, I investigated how the self-regulation of brain
 networks by (combined) Electroencephalography (EEG) and especially real-time
 fMRI (rtfMRI) neurofeedback can be methodologically further advanced to be
@@ -25,14 +25,14 @@ success. In another project, we implemented a simple real-time functional
 connectivity measure (partial correlation) and explored the feasibility of
 using this as a neurofeedback signal during a visual motion task.
 
-## Numerical Cognition & Embodied Cognition
-I did my PhD at the Donders Institute for Brain, Cognition and Behaviour at
+## Embodied Cognition & Numerical Cognition
+During my PhD at the Donders Institute for Brain, Cognition and Behaviour at
 Radboud University in Nijmegen, The Netherlands, as part of the Action and
 Neurocognition group of Harold Bekkering as well as the Intention and Action
 group of Ivan Toni, and in collaboration with Oliver Lindemann from the Potsdam
-Embodied Cognition Group. During this time I got concerned with the question of
-how former sensorimotor experiences shape our cognition and how differences in
-these experiences can lead to individual traits in cognitive functions. For
+Embodied Cognition Group, I got concerned with the question of how former
+sensorimotor experiences shape our cognition and how differences in these
+experiences can lead to individual traits in cognitive functions. For
 instance, my research in the fields of embodied cognition and numerical
 cognition focuses on the neurocognitive representation of numerical magnitude
 and the question of whether numerical concepts are "grounded" in former
