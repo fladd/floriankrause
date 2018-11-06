@@ -55,7 +55,7 @@ between numbers and size during visual search. _Psychological Research,
 81(3)_, 664-677.
 doi: [10.1007/s00426-016-0771-4](https://doi.org/10.1007/s00426-016-0771-4)
 
-* * Krause, F., Lindemann, O., Toni, I. & Bekkering, H. (2014). Different
+* Krause, F., Lindemann, O., Toni, I. & Bekkering, H. (2014). Different
 brains process numbers differently: Structural bases of individual
 differences in spatial and non-spatial number representations. _Journal of
 Cognitive Neuroscience 26(4)_, 768-776.
