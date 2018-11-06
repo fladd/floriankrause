@@ -2,9 +2,9 @@
 title: Research
 ---
 
-## Real-time fMRI Neurofeedback for Stress-related Disorders
-I recently got interested in the clinical benefits of self-regulating brain
-networks using real-time functional Magnetic Resonance Imaging (fMRI)
+## Self-regulation of Large-scale Brain Networks & Stress-related Disorders
+I recently got interested in the clinical benefits of self-regulating large-
+scale brain networks using real-time functional Magnetic Resonance Imaging (fMRI)
 neurofeedback.
 
 In my current position as a postdoctoral researcher in the Cognitive Affective
@@ -13,7 +13,8 @@ and Behaviour, I am investigating how to capture shifts in large-scale brain
 network blance for developing real-time fMRI neurofeedback training
 interventions to increase stress resilience.
 
-Before that, I worked on the European BRAINTRAIN project as a postdoctoral
+## Real-time fMRI & Neurofeedback
+I worked on the European BRAINTRAIN project as a postdoctoral
 researcher for Rainer Goebel at Brain Innovation B.V. and Maastricht University
 in Maastricht, The Netherlands, where I was investigating how the
 self-regulation of brain networks by (combined) Electroencephalography (EEG)
@@ -25,7 +26,7 @@ success. In another project, we implemented a simple real-time functional
 connectivity measure (partial correlation) and explored the feasibility of
 using this as a neurofeedback signal during a visual motion task.
 
-## Embodied Numerical Cognition
+## Numerical Cognition & Embodied Cognition
 I did my PhD at the Donders Institute for Brain, Cognition and Behaviour at
 Radboud University in Nijmegen, The Netherlands, as part of the Action and
 Neurocognition group of Harold Bekkering as well as the Intention and Action
