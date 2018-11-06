@@ -2,25 +2,24 @@
 title: Research
 ---
 
-## Self-regulation of Large-scale Brain Networks & Stress-related Disorders
-I recently got interested in the clinical benefits of self-regulating large-
-scale brain networks using real-time functional Magnetic Resonance Imaging (fMRI)
-neurofeedback.
-
-In my current position as a postdoctoral researcher in the Cognitive Affective
-Neuroscience lab of Erno Hermans at the Donders Institute for Brain, Cognition
-and Behaviour, I am investigating how to capture shifts in large-scale brain
-network blance for developing real-time fMRI neurofeedback training
-interventions to increase stress resilience.
+## Large-scale Brain Networks & Stress-related Disorders
+I recently got interested in the clinical benefits of self-regulating
+large-scale brain networks using real-time functional Magnetic Resonance
+Imaging (fMRI) neurofeedback. In my current position as a postdoctoral
+researcher in the Cognitive Affective Neuroscience lab of Erno Hermans at
+the Donders Institute for Brain, Cognition and Behaviour, I am
+investigating how to capture shifts in large-scale brain network blance
+for developing real-time fMRI neurofeedback training interventions to
+increase stress resilience.
 
 ## Real-time fMRI & Neurofeedback
-I worked on the European BRAINTRAIN project as a postdoctoral
+When I worked on the European BRAINTRAIN project as a postdoctoral
 researcher for Rainer Goebel at Brain Innovation B.V. and Maastricht University
-in Maastricht, The Netherlands, where I was investigating how the
-self-regulation of brain networks by (combined) Electroencephalography (EEG)
-and real-time fMRI (rtfMRI) neurofeedback can be methodologically further
-advanced to be utilised as a therapeutic measure for mental disorders. For
-instance, we recently investigated the effect of varying the visual
+in Maastricht, The Netherlands, I investigated how the self-regulation of brain
+networks by (combined) Electroencephalography (EEG) and especially real-time
+fMRI (rtfMRI) neurofeedback can be methodologically further advanced to be
+utilised as a therapeutic measure for mental disorders.
+For instance, we recently investigated the effect of varying the visual
 presentation of a neural feedback signal on individuals' self-regulation
 success. In another project, we implemented a simple real-time functional
 connectivity measure (partial correlation) and explored the feasibility of
