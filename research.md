@@ -2,7 +2,7 @@
 title: Research
 ---
 
-## Large-scale Brain Networks & Stress
+## Large-Scale Brain Networks & Stress
 
 I recently got interested in the clinical benefits of self-regulating
 large-scale brain networks using real-time functional Magnetic Resonance
@@ -13,7 +13,7 @@ I am investigating how to capture shifts in large-scale brain network
 blance for developing real-time fMRI neurofeedback training interventions
 to increase stress resilience.
 
-## Real-time fMRI & Neurofeedback
+## Real-Time fMRI & Neurofeedback
 
 When working on the European BRAINTRAIN project as a postdoctoral researcher
 for Rainer Goebel at Brain Innovation B.V. and Maastricht University, I
