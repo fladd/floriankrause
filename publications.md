@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-## Journal Articles
+## Journal articles
 
 * **Krause, F.**, Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (in
 press). A shared magnitude representation for perceptual and motor magnitudes
@@ -51,7 +51,7 @@ doi: [10.1024/2235-0977/a000009](https://doi.org/10.1024/2235-0977/a000009)
 grounding of numerical cognition_. Doctoral Thesis, Donders Series 167,ISBN:
 978-94-6284-005-8.
 
-## Published Abstracts
+## Published abstracts
 
 * Mehler, D., Williams, A., **Krause, F**., Luehrs, M., Shetty, H.,Turner, D.,
 Linden, D. & Whittaker, J. (2017). Supplementary motor area, but not primary
