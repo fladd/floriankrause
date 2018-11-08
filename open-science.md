@@ -1,8 +1,8 @@
 ---
-title: Open Science
+title: Open science
 ---
 
-## Open-Source/Free Software
+## Open-source/free software
 * **Expyriment**: An open-source and platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments  
   [www.expyriment.org](http://www.expyriment.org)
 
@@ -15,6 +15,6 @@ title: Open Science
 * **RealTimeExportServer**: Export real-time pixel data from a Siemens MR scanner via TCP  
   [github.com/fladd/RealTimeExportServer](https://github.com/fladd/RealTimeExportServer)
 
-## Open Data
+## Open data
 * Krause, Meyer, Bekkering, Hunnius & Lindemann (in press)  
   [osf.io/xn8cm](https://osf.io/xn8cm/)
