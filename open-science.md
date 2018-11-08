@@ -16,5 +16,5 @@ title: Open Science
   [github.com/fladd/RealTimeExportServer](https://github.com/fladd/RealTimeExportServer)
 
 ## Open Data
-* [Supplements "Interaction between Perceptual and Motor Magnitudes in Early Childhood"
-](https://osf.io/xn8cm/) (Krause, Meyer, Bekkering, Hunnius & Lindemann, in press)
+* Krause, Meyer, Bekkering, Hunnius & Lindemann (in press)  
+  [osf.io/xn8cm](https://osf.io/xn8cm/)
