@@ -2,7 +2,7 @@
 title: Research
 ---
 
-## Large-Scale Brain Networks & Stress
+## Large-scale brain networks & stress
 
 I recently got interested in the clinical benefits of self-regulating
 large-scale brain networks using real-time functional Magnetic Resonance
@@ -13,7 +13,7 @@ I am investigating how to capture shifts in large-scale brain network
 blance for developing real-time fMRI neurofeedback training interventions
 to increase stress resilience.
 
-## Real-Time fMRI & Neurofeedback
+## Real-time fMRI & neurofeedback
 
 When working on the European BRAINTRAIN project as a postdoctoral researcher
 for Rainer Goebel at Brain Innovation B.V. and Maastricht University, I
@@ -22,7 +22,7 @@ Electroencephalography (EEG) and especially real-time fMRI (rtfMRI)
 neurofeedback can be methodologically further advanced to be utilised as a
 therapeutic measure for mental disorders.
 
-**Key Publications:**
+**Key publications:**
 
 * Mehler, D., Williams, A., **Krause, F.**, Lührs, M., Shetty, H.,Turner, D.,
 Linden, D. & Whittaker, J. (2019). The BOLD response in primary motor cortex
@@ -36,7 +36,7 @@ Real-time fMRI-based self-regulation of brain activation acrosss different
 visual feedback presentations. _Brain-Computer Interfaces, 4(1–2)_, 87–101.
 doi: [10.1080/2326263X.2017.1307096](https://doi.org/10.1080/2326263X.2017.1307096)
 
-## Embodied Cognition & Numerical Cognition
+## Embodied cognition & numerical cognition
 
 During my PhD at the Donders Institute at Radboud University,
 with Harold Bekkering, Ivan Toni and Oliver Lindemann,
@@ -51,7 +51,7 @@ which combines a variety of behavioural measures (e.g. reaction time,
 kinematics) as well as neuroimaging techniques (e.g. fMRI, Voxel-Based
 Morphometry).
 
-**Key Publications:**
+**Key publications:**
 
 * **Krause, F.**, Bekkering, H., Pratt, J. & Lindemann, O. (2017). Interaction
 between numbers and size during visual search. _Psychological Research,
