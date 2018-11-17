@@ -53,6 +53,11 @@ Morphometry).
 
 **Key publications:**
 
+* **Krause, F.**, Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (2019).
+Interaction between perceptual and motor magnitudes in early childhood.
+_Cognitive Development, 49_, 11-19.
+doi: [10.1016/j.cogdev.2018.11.001](https://doi.org/10.1016/j.cogdev.2018.11.001)
+
 * **Krause, F.**, Bekkering, H., Pratt, J. & Lindemann, O. (2017). Interaction
 between numbers and size during visual search. _Psychological Research,
 81(3)_, 664-677.
