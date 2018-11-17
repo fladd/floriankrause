@@ -5,8 +5,8 @@ title: Publications
 ## Journal articles
 
 * **Krause, F.**, Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (2019).
-A shared magnitude representation for perceptual and motor magnitudes
-in early childhood. _Cognitive Development, 49_, 11-19.
+Interaction between perceptual and motor magnitudes in early childhood.
+_Cognitive Development, 49_, 11-19.
 doi: [10.1016/j.cogdev.2018.11.001](https://doi.org/10.1016/j.cogdev.2018.11.001)
 
 * Mehler, D., Williams, A., **Krause, F**., Lührs, M., Shetty, H.,Turner, D.,
