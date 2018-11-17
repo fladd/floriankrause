@@ -35,7 +35,7 @@ doi: [10.1162/jocn_a_00518](https://doi.org/10.1162/jocn_a_00518)
 * **Krause, F.** & Lindemann, O. (2014). Expyriment: A Python library for
 cognitive and neuroscientific experiments. _Behavior Research Methods,
 46(2)_, 416-428.
-doi: [10.3758/s13428-013-0390-6](https://doi.org/10.3758/s13428-013-0390-6])
+doi: [10.3758/s13428-013-0390-6](https://doi.org/10.3758/s13428-013-0390-6)
 
 * **Krause, F.**, Bekkering, H. & Lindemann, O. (2013). A feeling for numbers:
 shared metric for symbolic and tactile numerosities. _Frontiers in Psychology
