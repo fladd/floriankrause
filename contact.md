@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-**Florian Krause**
+**Dr. Florian Krause**
 
 Donders Institute for Brain, Cognition and Behaviour  
 Radboud University Medical Center  
