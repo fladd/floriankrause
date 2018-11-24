@@ -4,7 +4,7 @@ title: Open science
 
 ## Open-source/free software
 * **Expyriment**: An open-source and platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments  
-  [www.expyriment.org](http://www.expyriment.org)
+  [www.expyriment.org](https://www.expyriment.org)
 
 * **Scan Session Tool**: (f)MRI scan session documentation and data archiving  
   [fladd.github.io/ScanSessionTool](http://fladd.github.io/ScanSessionTool)
