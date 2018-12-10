@@ -49,8 +49,8 @@ doi: [10.1024/2235-0977/a000009](https://doi.org/10.1024/2235-0977/a000009)
 ## Books
 
 * **Krause, F.** (2014). _Numbers and magnitude in the brain: A sensorimotor
-grounding of numerical cognition_. Doctoral Thesis, Donders Series 167,ISBN:
-[978-94-6284-005-8](http://hdl.handle.net/2066/130434)
+grounding of numerical cognition_ (Doctoral Dissertation). Retrieved from
+[http://hdl.handle.net/2066/130434](http://hdl.handle.net/2066/130434)
 
 ## Published abstracts
 
