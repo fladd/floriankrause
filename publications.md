@@ -4,6 +4,8 @@ title: Publications
 
 ## Journal articles
 
+* Lührs, M., Riemenschneider, B., Eck, J., Benitez, A., Poser, B.A., Heinecke, A., **Krause, F.**, Esposito, F., Sorger, B., Hennig, J. & Goebel, R. (2019). The potential of MR-Encephalography for BCI/Neurofeedback applications with high temporal resolution. _NeuroImage_.
+
 * **Krause, F.**, Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (2019).
 Interaction between perceptual and motor magnitudes in early childhood.
 _Cognitive Development, 49_, 11-19.
