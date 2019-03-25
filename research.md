@@ -25,19 +25,19 @@ therapeutic measure for mental disorders.
 **Key publications:**
 
 * Lührs, M., Riemenschneider, B., Eck, J., Benitez, A., Poser, B.A., Heinecke, A., **Krause, F.**, Esposito, F., Sorger, B., Hennig, J. & Goebel, R. (2019). The potential of MR-Encephalography for BCI/Neurofeedback applications with high temporal resolution. _NeuroImage_.
-https://doi.org/10.1016/j.neuroimage.2019.03.046
+[https://doi.org/10.1016/j.neuroimage.2019.03.046](https://doi.org/10.1016/j.neuroimage.2019.03.046)
 
 * Mehler, D., Williams, A., **Krause, F.**, Lührs, M., Shetty, H.,Turner, D.,
 Linden, D. & Whittaker, J. (2019). The BOLD response in primary motor cortex
 and supplementary motor area during kinesthetic motor imagery based graded
 fMRI neurofeedback. _NeuroImage, 184_, 36–44.
-https://doi.org/10.1016/j.neuroimage.2018.09.007
+[https://doi.org/10.1016/j.neuroimage.2018.09.007](https://doi.org/10.1016/j.neuroimage.2018.09.007)
 
 * **Krause, F.**, Benjamins, C., Lührs, M., Eck, J., Noirhomme, Q., Rosenke,
 M., Brunheim, S., Sorger, B. & Goebel, R. (2017). Neurofeedback at display:
 Real-time fMRI-based self-regulation of brain activation acrosss different
 visual feedback presentations. _Brain-Computer Interfaces, 4(1–2)_, 87–101.
-https://doi.org/10.1080/2326263X.2017.1307096
+[https://doi.org/10.1080/2326263X.2017.1307096](https://doi.org/10.1080/2326263X.2017.1307096)
 
 ## Embodied cognition & numerical cognition
 
@@ -59,20 +59,20 @@ Morphometry).
 * **Krause, F.**, Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (2019).
 Interaction between perceptual and motor magnitudes in early childhood.
 _Cognitive Development, 49_, 11-19.
-https://doi.org/10.1016/j.cogdev.2018.11.001
+[https://doi.org/10.1016/j.cogdev.2018.11.001](https://doi.org/10.1016/j.cogdev.2018.11.001)
 
 * **Krause, F.**, Bekkering, H., Pratt, J. & Lindemann, O. (2017). Interaction
 between numbers and size during visual search. _Psychological Research,
 81(3)_, 664-677.
-https://doi.org/10.1007/s00426-016-0771-4
+[https://doi.org/10.1007/s00426-016-0771-4](https://doi.org/10.1007/s00426-016-0771-4)
 
 * **Krause, F.**, Lindemann, O., Toni, I. & Bekkering, H. (2014). Different
 brains process numbers differently: Structural bases of individual
 differences in spatial and non-spatial number representations. _Journal of
 Cognitive Neuroscience 26(4)_, 768-776.
-https://doi.org/10.1162/jocn_a_00518
+[https://doi.org/10.1162/jocn_a_00518](https://doi.org/10.1162/jocn_a_00518)
 
 * **Krause, F.**, Bekkering, H. & Lindemann, O. (2013). A feeling for numbers:
 shared metric for symbolic and tactile numerosities. _Frontiers in Psychology
 4:7_.
-https://doi.org/10.3389/fpsyg.2013.00007
+[https://doi.org/10.3389/fpsyg.2013.00007](https://doi.org/10.3389/fpsyg.2013.00007)
