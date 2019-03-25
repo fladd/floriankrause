@@ -14,4 +14,4 @@ Phone: +31 24 3610618
 Email: [f.krause@donders.ru.nl](mailto:f.krause@donders.ru.nl) |
        [florian.krause@radboudumc.nl](mailto:florian.krause@radboudumc.nl)  
 
-Visiting address: Trigon, Kapittelweg 29, Room 1.185
+Visiting address: Trigon, Kapittelweg 29, Room 0.015
