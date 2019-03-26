@@ -55,7 +55,7 @@ oder Veranschaulichung? _Lernen und Lernstörungen, 1(1)_, 60-62.
 grounding of numerical cognition_ (Doctoral Dissertation). Retrieved from
 [http://hdl.handle.net/2066/130434](http://hdl.handle.net/2066/130434)
 
-## Published abstracts
+## Abstracts
 
 * Mehler, D., Williams, A., **Krause, F**., Luehrs, M., Shetty, H.,Turner, D.,
 Linden, D. & Whittaker, J. (2017). Supplementary motor area, but not primary
@@ -70,7 +70,7 @@ across multiple visual neurofeedback presentations. _Proceedings of the 6th
 International Brain-Computer Interface Meeting, 132_.
 [https://doi.org/10.3217/978-3-85125-467-9-132](https://doi.org/10.3217/978-3-85125-467-9-132)
 
-## Other publications
+## Other
 
 * **Krause, F.** (2017). MagniShoot – An educational game developed in 24
 hours. _Donders Wonders - On Brains and Science_.
