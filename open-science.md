@@ -22,7 +22,7 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 
 ## Open data
 * Supplements **"Active head motion reduction in Magnetic Resonance Imaging using tactile feedback"**
-  (Krause, Benjamins, Eck, Luehrs, van Hoof & Goebel, unpublished)
+  (Krause, Benjamins, Eck, Luehrs, van Hoof & Goebel, unpublished)  
   [osf.io/hrnfw](https://osf.io/hrnfw/)
   
 * Supplements **"Interaction between Perceptual and Motor Magnitudes in Early Childhood"**
