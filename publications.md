@@ -4,6 +4,8 @@ title: Publications
 
 ## Journal articles
 
+* **Krause, F.**, Benjamins, C., Eck, J., Lührs, M., van Hoof, R. & Goebel, R. (in press). Active head motion reduction in Magnetic Resonance Imaging using tactile feedback. _Human Brain Mapping_.
+
 * Lührs, M., Riemenschneider, B., Eck, J., Benitez, A., Poser, B.A., Heinecke, A., **Krause, F.**, Esposito, F., Sorger, B., Hennig, J. & Goebel, R. (2019). The potential of MR-Encephalography for BCI/Neurofeedback applications with high temporal resolution. _NeuroImage_.
 [https://doi.org/10.1016/j.neuroimage.2019.03.046](https://doi.org/10.1016/j.neuroimage.2019.03.046)
 
