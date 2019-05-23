@@ -10,12 +10,12 @@ title: Open science
 cognitive and neuroscientific experiments. _Behavior Research Methods,
 46(2)_, 416-428.
     [https://doi.org/10.3758/s13428-013-0390-6](https://doi.org/10.3758/s13428-013-0390-6)
-    
-* **BrainVoyager Tools**: An object-oriented approach to create, read and write common plain-text BrainVoyager input formats with Python  
-  [https://github.com/fladd/brainvoyagertools](https://github.com/fladd/brainvoyagertools)
 
 * **Scan Session Tool**: (f)MRI scan session documentation and data archiving  
   [fladd.github.io/ScanSessionTool](http://fladd.github.io/ScanSessionTool)
+  
+* **BrainVoyager Tools**: An object-oriented approach to create, read and write common plain-text BrainVoyager input formats with Python  
+  [https://github.com/fladd/brainvoyagertools](https://github.com/fladd/brainvoyagertools)
   
 * **IndNet**: Defining subject-specific brain networks by individualizing templates  
   [github.com/can-lab/IndNet](https://github.com/can-lab/IndNet)
