@@ -25,9 +25,14 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 
 ## Open data
 * Supplements **"Active head motion reduction in Magnetic Resonance Imaging using tactile feedback"**
-  (Krause, Benjamins, Eck, Luehrs, van Hoof & Goebel, unpublished)  
+  (Krause, Benjamins, Eck, Lührs, van Hoof & Goebel, in print)  
   [osf.io/hrnfw](https://osf.io/hrnfw/)
   
 * Supplements **"Interaction between Perceptual and Motor Magnitudes in Early Childhood"**
   (Krause, Meyer, Bekkering, Hunnius & Lindemann, 2019)  
   [osf.io/xn8cm](https://osf.io/xn8cm/)
+
+## Preregistrations
+* **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**
+  (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, unpublished)
+  [https://osf.io/y69jc/](https://osf.io/y69jc/)
