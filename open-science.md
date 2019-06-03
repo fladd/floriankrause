@@ -24,11 +24,11 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [github.com/fladd/RealTimeExportServer](https://github.com/fladd/RealTimeExportServer)
 
 ## Open data
-* Supplements **"Active head motion reduction in Magnetic Resonance Imaging using tactile feedback"**
+* **Supplements "Active head motion reduction in Magnetic Resonance Imaging using tactile feedback"**
   (Krause, Benjamins, Eck, Lührs, van Hoof & Goebel, in print)  
   [osf.io/hrnfw](https://osf.io/hrnfw/)
   
-* Supplements **"Interaction between Perceptual and Motor Magnitudes in Early Childhood"**
+* **Supplements "Interaction between Perceptual and Motor Magnitudes in Early Childhood"**
   (Krause, Meyer, Bekkering, Hunnius & Lindemann, 2019)  
   [osf.io/xn8cm](https://osf.io/xn8cm/)
 
