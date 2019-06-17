@@ -13,7 +13,7 @@ I am investigating how to capture shifts in large-scale brain network
 blance for developing real-time fMRI neurofeedback training interventions
 to increase stress resilience.
 
-## Real-time fMRI & neurofeedback
+## (Real-time) fMRI & neurofeedback
 
 When working on the European BRAINTRAIN project as a postdoctoral researcher
 for Rainer Goebel at Brain Innovation B.V. and Maastricht University, I
