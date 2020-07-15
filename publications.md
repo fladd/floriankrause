@@ -4,9 +4,22 @@ title: Publications
 
 ## Journal articles
 
-* **Krause, F.**, Benjamins, C., Eck, J., Lührs, M., van Hoof, R. & Goebel, R. (2019). Active head motion reduction in Magnetic Resonance Imaging using tactile feedback. _Human Brain Mapping, 40(14)_, 4026-4037. [https://doi.org/10.1002/hbm.24683](https://doi.org/10.1002/hbm.24683)
+* Mehler, D.M.A., Williams, A.N., Whittaker, J.R., **Krause, F.**, Lührs, M.,
+Kunas, S., Wise, R.G., Shetty, H.G.M., Turner, D.L. & Linden, D.E.J. (2020).
+Graded fMRI Neurofeedback Training of Motor Imagery in Middle Cerebral Artery
+Stroke Patients: A Preregistered Proof-of-Concept Study. _Frontiers in Human
+Neuroscience, 14:226_.
+[https://doi.org/10.3389/fnhum.2020.00226](https://doi.org/10.3389/fnhum.2020.00226)
 
-* Lührs, M., Riemenschneider, B., Eck, J., Benitez, A., Poser, B.A., Heinecke, A., **Krause, F.**, Esposito, F., Sorger, B., Hennig, J. & Goebel, R. (2019). The potential of MR-Encephalography for BCI/Neurofeedback applications with high temporal resolution. _NeuroImage_.
+* **Krause, F.**, Benjamins, C., Eck, J., Lührs, M., van Hoof, R. & Goebel, R.
+(2019). Active head motion reduction in Magnetic Resonance Imaging using
+tactile feedback. _Human Brain Mapping, 40(14)_, 4026-4037.
+[https://doi.org/10.1002/hbm.24683](https://doi.org/10.1002/hbm.24683)
+
+* Lührs, M., Riemenschneider, B., Eck, J., Benitez, A., Poser, B.A., Heinecke,
+A., **Krause, F.**, Esposito, F., Sorger, B., Hennig, J. & Goebel, R. (2019).
+The potential of MR-Encephalography for BCI/Neurofeedback applications with
+high temporal resolution. _NeuroImage, 194_, 228-243.
 [https://doi.org/10.1016/j.neuroimage.2019.03.046](https://doi.org/10.1016/j.neuroimage.2019.03.046)
 
 * **Krause, F.**, Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (2019).
