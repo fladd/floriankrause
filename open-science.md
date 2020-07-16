@@ -15,13 +15,28 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [fladd.github.io/ScanSessionTool](http://fladd.github.io/ScanSessionTool)
   
 * **BrainVoyager Tools**: An object-oriented approach to create, read and write common plain-text BrainVoyager input formats with Python  
-  [https://github.com/fladd/brainvoyagertools](https://github.com/fladd/brainvoyagertools)
+  [github.com/fladd/brainvoyagertools](https://github.com/fladd/brainvoyagertools)
+  
+* **dataintegrityfingerprint-python**: Python implementation of Data Integrity Fingerprint
+  [github.com/expyriment/dataintegrityfingerprint-python](https://github.com/expyriment/dataintegrityfingerprint-python)
+  
+* **DataIntegrity**: A BitTorrent-compatible Data Integrity Fingerprint (DIF) proposal
+  [github.com/fladd/DataIntegrity](https://github.com/fladd/DataIntegrity)
   
 * **IndNet**: Defining subject-specific brain networks by individualizing templates  
   [github.com/can-lab/IndNet](https://github.com/can-lab/IndNet)
 
+* **Finish the job**: Running common preprocessing steps after fMRIprep
+  [github.com/can-lab/finish-the-job](https://github.com/can-lab/finish-the-job)
+  
 * **RealTimeExportServer**: Export real-time pixel data from a Siemens MR scanner via TCP  
   [github.com/fladd/RealTimeExportServer](https://github.com/fladd/RealTimeExportServer)
+  
+* **DummyTrigger**: Send dummy MR triggers via serial port
+  [github.com/fladd/DummyTrigger](https://github.com/fladd/DummyTrigger)
+  
+* **ComapreDirectories**: Binary compare two directories recursively
+  [github.com/fladd/CompareDirectories](https://github.com/fladd/CompareDirectories)
 
 ## Open data
 * **Supplements "Active head motion reduction in Magnetic Resonance Imaging using tactile feedback"**
@@ -36,3 +51,10 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 * **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**
   (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, unpublished)
   [https://osf.io/y69jc/](https://osf.io/y69jc/)
+  
+## Other
+* **DIF**: Data Integrity Fingerprint specification
+  [github.com/expyriment/DIF](https://github.com/expyriment/DIF)
+
+* **BVPython**: Documentation for using Python in BrainVoyager
+  [fladd.github.io/BVPython](https://fladd.github.io/BVPython)
