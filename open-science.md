@@ -35,7 +35,7 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 * **DummyTrigger**: Send dummy MR triggers via serial port  
   [github.com/fladd/DummyTrigger](https://github.com/fladd/DummyTrigger)
   
-* **ComapreDirectories**: Binary compare two directories recursively  
+* **CompareDirectories**: Binary compare two directories recursively  
   [github.com/fladd/CompareDirectories](https://github.com/fladd/CompareDirectories)
 
 ## Open data
