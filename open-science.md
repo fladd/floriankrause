@@ -39,8 +39,13 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [github.com/fladd/CompareDirectories](https://github.com/fladd/CompareDirectories)
 
 ## Open data
+
+* **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**
+  (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, 2020)
+  [https://osf.io/y69jc/](https://osf.io/y69jc/)
+  
 * **Supplements "Active head motion reduction in Magnetic Resonance Imaging using tactile feedback"**
-  (Krause, Benjamins, Eck, Lührs, van Hoof & Goebel, in print)  
+  (Krause, Benjamins, Eck, Lührs, van Hoof & Goebel, 2019)  
   [osf.io/hrnfw](https://osf.io/hrnfw/)
   
 * **Supplements "Interaction between Perceptual and Motor Magnitudes in Early Childhood"**
@@ -49,7 +54,7 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 
 ## Preregistrations
 * **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**
-  (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, unpublished)
+  (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, 2020)
   [https://osf.io/y69jc/](https://osf.io/y69jc/)
   
 ## Other
