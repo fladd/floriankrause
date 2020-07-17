@@ -29,6 +29,9 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 * **Finish the job**: Running common preprocessing steps after fMRIprep  
   [github.com/can-lab/finish-the-job](https://github.com/can-lab/finish-the-job)
   
+* **FawN**: FSL analysis with NiPype  
+  [github.com/can-lab/fawn](https://github.com/can-lab/fawn)
+  
 * **RealTimeExportServer**: Export real-time pixel data from a Siemens MR scanner via TCP  
   [github.com/fladd/RealTimeExportServer](https://github.com/fladd/RealTimeExportServer)
   
